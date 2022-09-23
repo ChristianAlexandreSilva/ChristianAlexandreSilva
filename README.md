@@ -1,4 +1,4 @@
-## Olá! Eu sou Christian Silva, estudando de programação Back e Front-End. 👋
+## Olá! Eu sou Christian Silva, estudante de programação Back e Front-End. 👋
 
 - 🔭 Hoje estou em transição de carreira para programação!
 - 🌱 Estou estudando Javascript, CSS, HTML e NodeJS!
